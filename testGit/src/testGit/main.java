@@ -10,5 +10,6 @@ public class main {
 		
 		
 		System.out.println("hello co ba!!!!!!!!!!!!");
+		System.out.println("hello co ba!!!!!!!!!!!!");
 	}
 }
