@@ -19,6 +19,8 @@ public class main {
 		System.out.println("nghia");
 		System.out.println("dep");
 		System.out.println("trai");
+		System.out.println("qua");
+		System.out.println("vay");
 	}
 	public void nghiaTest() {
 		System.out.println("Zzzzzzzzzzzzz");
