@@ -15,5 +15,8 @@ public class main {
 	}
 	public void test() {
 		System.out.println("ccccc");
+		System.out.println("nghia");
+		System.out.println("dep");
+		System.out.println("trai");
 	}
 }
