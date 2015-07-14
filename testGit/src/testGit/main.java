@@ -11,4 +11,7 @@ public class main {
 		System.out.println("hello co hai!!!!!!!!!!!!");
 		System.out.println("hello co ba!!!!!!!!!!!!");
 	}
+	public void nghiaTest() {
+		System.out.println("Zzzzzzzzzzzzz");
+	}
 }
