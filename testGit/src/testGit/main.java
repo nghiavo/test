@@ -10,7 +10,8 @@ public class main {
 		
 		
 		System.out.println("hello co ba!!!!!!!!!!!!");
-		System.out.println("hello co ba!!!!!!!!!!!!");
+		System.out.println("hello co 12345!!!!!!!!!!!!");
+		System.out.println("hello co 12345!!!!!!!!!!!!");
 	}
 	public void test() {
 		System.out.println("ccccc");
