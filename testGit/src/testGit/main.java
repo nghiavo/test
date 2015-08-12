@@ -7,12 +7,9 @@ public class main {
 		System.out.println("ccccc");
 		
 		
-		System.out.println("hello co zzzz!!!!!!!!!!!!");
-		System.out.println("hello co hai!!!!!!!!!!!!");
-		System.out.println("hello co ba!!!!!!!!!!!!");
-		System.out.println("hello co 12345!!!!!!!!!!!!");
-		System.out.println("hello co 12345!!!!!!!!!!!!");
-		System.out.println("hello co 12346!!!!!!!!!!!!");
+		System.out.println("hello co nghia dep trai!!!!!!!!!!!!");
+		System.out.println("hello co nghia dep trai!!!!!!!!!!!!");
+		System.out.println("hello co nghia dep trai!!!!!!!!!!!!");
 	}
 	public void test() {
 		System.out.println("nghia");
