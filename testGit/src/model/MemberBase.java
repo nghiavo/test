@@ -8,6 +8,8 @@ public class MemberBase {
 
     private String kanaName;
 
+    private String telNo;
+
     public String getKanaName() {
         return kanaName;
     }
@@ -16,10 +18,19 @@ public class MemberBase {
         this.kanaName = kanaName;
     }
 
-    public MemberBase(String id, String name, String kanaName) {
+    public String getTelNo() {
+        return telNo;
+    }
+
+    public void setTelNo(String telNo) {
+        this.telNo = telNo;
+    }
+
+    public MemberBase(String id, String name, String kanaName, String telNo) {
         this.id = id;
         this.name = name;
         this.kanaName = kanaName;
+        this.telNo = telNo;
     }
 
     public String getId() {
