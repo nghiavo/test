@@ -6,9 +6,20 @@ public class MemberBase {
 
     private String name;
 
-    public MemberBase(String id, String name) {
+    private String telNo;
+
+    public String getTelNo() {
+        return telNo;
+    }
+
+    public void setTelNo(String telNo) {
+        this.telNo = telNo;
+    }
+
+    public MemberBase(String id, String name, String telNo) {
         this.id = id;
         this.name = name;
+        this.telNo = telNo;
     }
 
     public String getId() {
