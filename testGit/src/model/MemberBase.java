@@ -6,6 +6,11 @@ public class MemberBase {
 
     private String name;
 
+    public MemberBase(String id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+
     public String getId() {
         return id;
     }
@@ -20,5 +25,9 @@ public class MemberBase {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String toString() {
+        return "Hello " + this.name;
     }
 }
